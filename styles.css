@@ -1,0 +1,40 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.dahlia,
+.rose,
+.marigold,
+.sunflower {
+  display: flex;
+  height: 20vw;
+  width: 20vw;
+  border-radius: 50%;
+} /* 
+.rose {
+  display: flex;
+  height: 20vw;
+
+  width: 20vw;
+  border-radius: 50%;
+}
+.dahlia {
+  display: flex;
+  height: 20vw;
+
+  width: 20vw;
+  border-radius: 50%;
+}
+.marigold {
+  display: flex;
+  height: 20vw;
+
+  width: 20vw;
+  border-radius: 50%;
+} */
+.random-div {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+}
